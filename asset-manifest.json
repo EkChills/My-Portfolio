@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/EkChills.github.io/My-Portfolio/static/css/main.779eecc4.css",
+    "main.js": "/EkChills.github.io/My-Portfolio/static/js/main.ffb6a4c8.js",
+    "static/media/resume.pdf": "/EkChills.github.io/My-Portfolio/static/media/resume.b96c9ec531a1bf8b59f2.pdf",
+    "index.html": "/EkChills.github.io/My-Portfolio/index.html",
+    "main.779eecc4.css.map": "/EkChills.github.io/My-Portfolio/static/css/main.779eecc4.css.map",
+    "main.ffb6a4c8.js.map": "/EkChills.github.io/My-Portfolio/static/js/main.ffb6a4c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.779eecc4.css",
+    "static/js/main.ffb6a4c8.js"
+  ]
+}
